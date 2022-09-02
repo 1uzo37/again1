@@ -1,3 +1,4 @@
 #!/bin/bash
 print current working directory pwd
 pwd
+script that prints the absolute current working directory pwd
